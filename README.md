@@ -31,11 +31,6 @@ O projeto está estruturado da seguinte forma:
 - `main.js`: o arquivo JavaScript que contém a lógica de programação do jogo.
 - `README.md`: este arquivo, que fornece informações sobre o jogo e como executá-lo.
 
-## Contribuição
-
-Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório, fazer suas alterações e enviar uma solicitação de pull. Será um prazer receber contribuições e melhorar o jogo.
-
-
 ## Agradecimentos
 
 - Agradeço a todos os recursos online e tutoriais que me ajudaram a criar este jogo.
